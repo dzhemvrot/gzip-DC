@@ -1,5 +1,5 @@
-# zlib DC - zlib (De-)Compressor
-This is a program to compress and decompress files using zlib.
+# gzip DC - gzip (De-)Compressor
+This is a program to compress and decompress files using gzip.
 
 ## How to use
 ### 1-file (de-)compression
